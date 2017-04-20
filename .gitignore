@@ -49,4 +49,6 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
->>>>>>> 3cdc9ef1f136c006abfc901637e9913974db953c
+
+# rubymine file
+.idea
